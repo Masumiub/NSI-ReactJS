@@ -1,0 +1,22 @@
+*{
+  background-color: #000;
+}
+
+.body{
+  background-color: #000;
+  color: #fff;
+}
+.col-lg-6{
+  text-align: left;
+}
+
+.btn.btn-danger{
+  border-radius: 0px;
+}
+
+.divImg{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+}
